@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --icon s.ico "Destroy display.py"
